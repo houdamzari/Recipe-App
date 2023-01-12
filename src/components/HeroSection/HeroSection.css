@@ -1,0 +1,16 @@
+.hero__section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero__section-cooking {
+  width: 700px;
+  height: 700px;
+}
+
+.hero__section-header {
+  font-family: "Dancing Script", cursive;
+  padding: 0 150px;
+  font-size: 100px;
+}
