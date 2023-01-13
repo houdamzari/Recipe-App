@@ -1,0 +1,16 @@
+.recipe__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  background-color: transparent;
+  width: 150px;
+  margin: 10px;
+}
+
+.recipe__button-icon {
+  width: 20px;
+}

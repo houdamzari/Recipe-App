@@ -8,7 +8,7 @@ function HeroSection(props) {
         <h1 className="hero__section-header">
           &nbsp; Chefs <br />
           Academy <br />
-          &nbsp;  Secrets
+          &nbsp; Secrets
         </h1>
       </div>
       <img
